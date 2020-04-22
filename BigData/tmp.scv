@@ -1,0 +1,40 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>0</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>Bank Name           City  ST   CERT  \
+0                 The First State Bank  Barboursville  WV  14361   
+1                   Ericson State Bank        Ericson  NE  18265   
+2     City National Bank of New Jersey         Newark  NJ  21111   
+3                        Resolute Bank         Maumee  OH  58317   
+4                Louisa Community Bank         Louisa  KY  58112   
+..                                 ...            ...  ..    ...   
+556                 Superior Bank, FSB       Hinsdale  IL  32646   
+557                Malta National Bank          Malta  OH   6629   
+558    First Alliance Bank &amp; Trust Co.     Manchester  NH  34264   
+559  National State Bank of Metropolis     Metropolis  IL   3815   
+560                   Bank of Honolulu       Honolulu  HI  21029   
+
+                   Acquiring Institution       Closing Date  
+0                         MVB Bank, Inc.      April 3, 2020  
+1             Farmers and Merchants Bank  February 14, 2020  
+2                        Industrial Bank   November 1, 2019  
+3                     Buckeye State Bank   October 25, 2019  
+4      Kentucky Farmers Bank Corporation   October 25, 2019  
+..                                   ...                ...  
+556                Superior Federal, FSB      July 27, 2001  
+557                    North Valley Bank        May 3, 2001  
+558  Southern New Hampshire Bank &amp; Trust   February 2, 2001  
+559              Banterra Bank of Marion  December 14, 2000  
+560                   Bank of the Orient   October 13, 2000  
+
+[561 rows x 6 columns]</td>
+    </tr>
+  </tbody>
+</table>
