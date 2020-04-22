@@ -57,7 +57,7 @@ def wordCloud(wordInfo):
 
 nlp = Twitter()
 nouns = nlp.nouns(npolitics)
-count = Counter(nouns)
+count = Counter(nouns)  
 
 wordInfo = dict()
 for tags, counts in count.most_common(20):
